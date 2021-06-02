@@ -1,0 +1,1 @@
+beautifulsoup4 # fake dependency to make sure we install prereqs correctly
